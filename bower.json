@@ -1,0 +1,19 @@
+{
+  "name": "test-ycxw",
+  "version": "0.0.0",
+  "homepage": "https://github.com/ycxw2008/test-ycxw",
+  "authors": [
+    "ycxw2008 <ycxw2008@Gmail.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "~3.2.0"
+  }
+}
